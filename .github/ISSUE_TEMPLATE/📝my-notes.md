@@ -1,10 +1,10 @@
 ---
 name: "\U0001F4DDMy notes"
 about: My notes about the classes
-title: ''
-labels: ''
+title: "[\U0001F431Github ] "
+labels: "[\U0001F3C1Comandos básicos ], [\U0001F431Github ]"
 assignees: ''
 
 ---
 
-My notes about the classes
+##
